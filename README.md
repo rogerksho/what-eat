@@ -1,4 +1,4 @@
-# WHAT EAT?
+# WHAT EAT? [PAUSED DEVELOPMENT]
 
 ## Available Scripts
 
